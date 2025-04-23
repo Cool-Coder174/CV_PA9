@@ -15,8 +15,7 @@ This project implements a computer vision-based hand gesture controller for a Du
 - CUDA support for GPU acceleration (if available)
 
 ## Requirements
-```
-bash
+```bash
 ultralytics
 opencv-python
 torch
@@ -28,14 +27,12 @@ numpy
 ## Installation
 
 1. Clone the repository:
-```
-bash
+```bash
 git clone https://github.com/Cool-Coder174/CV_PA9.git
 cd CV_PA9
 ```
 2. Install the required packages:
-```
-bash
+```bash
 pip install -r requirements.txt
 ```
 3. Ensure you have a webcam connected to your system
@@ -43,8 +40,7 @@ pip install -r requirements.txt
 ## Usage
 
 1. Run the main script:
-```
-bash
+```bash
 python main.py
 ```
 2. Position yourself in front of the webcam
